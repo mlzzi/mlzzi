@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mlzzi
 - 👀 I’m interested in change career and enter in the field of Native Mobile Apps.
-- 🌱 I’m currently learning Kotlin and Android Studio.
-- 💞️ I’m looking to collaborate on any project of Front End.
+- 🌱 I’m currently learning Kotlin, Jetpack Compose and Android Studio.
+- 🌱 I’m also learning Java for mobile development, as a complementation.
+- 💞️ I’m looking to collaborate on any project of App Development.
 - 📫 How to reach me at https://www.linkedin.com/in/muriloluzzi/ or https://www.instagram.com/muriloluzzi/
