@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @mlzzi
-- 👀 I’m interested in change career and enter in the field of Native Mobile Apps.
-- 🌱 I’m currently learning Kotlin, Jetpack Compose and Android Studio.
-- 🌱 I’m also learning Java for mobile development, as a complementation.
-- 💞️ I’m looking to collaborate on any project of App Development.
-- 📫 How to reach me at https://www.linkedin.com/in/muriloluzzi/ or https://www.instagram.com/muriloluzzi/
+### Olá, eu sou Murilo Luzzi (mlzzi) 👋
+
+✨ **Estudante de Programação, formado em Design de Produto** e entusiasta de ciência e tecnologia.
+
+🏢 **Atuação Profissional**
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas no [SENAC](https://www.ead.senac.br/)
+- 🎓 Formado em Design de Produto no [CENTRO UNIVERSITÁRIO BELAS ARTES DE SÃO PAULO](https://www.belasartes.br/)
+
+📱 **Especialidades**
+- 📚 Entusiasta de Java, Kotlin e desenvolvimento Mobile para Android!
+
+### 🚀 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlzzi&layout=compact)
